@@ -45,6 +45,17 @@
   font-size: 0.85rem;
 }
 
+.docs-link-button {
+  margin-left: 0.5rem;
+  border: 1px solid #3d5f8c;
+  background: #17314e;
+  color: #e7f2ff;
+  border-radius: 0.5rem;
+  padding: 0.4rem 0.7rem;
+  text-decoration: none;
+  font-size: 0.82rem;
+}
+
 .view-toggle {
   display: inline-flex;
   border: 1px solid #2a3d58;

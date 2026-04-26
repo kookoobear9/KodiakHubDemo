@@ -1101,6 +1101,14 @@ function App() {
             <h1>Supplier Intelligence Dashboard</h1>
             <p>Procurement SRM command center</p>
           </div>
+          <a
+            className="docs-link-button"
+            href="https://github.com/kookoobear9/KodiakHubDemo/tree/main/docs"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Docs
+          </a>
         </div>
         <div className="view-toggle" role="tablist" aria-label="Dashboard views">
           <button type="button" className={view === 'supplier' ? 'active' : ''} onClick={() => setView('supplier')}>
