@@ -4,6 +4,8 @@ This folder contains the core customer-facing and delivery-facing documentation 
 
 Use these documents as a complete package during stakeholder alignment, user onboarding, and implementation.
 
+For any recommendations email me at sanjayvissa0@outlook.com
+
 ## What Is Included
 
 - `product-overview.md`  
